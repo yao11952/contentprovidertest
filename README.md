@@ -1,0 +1,2 @@
+# contentprovidertest
+mynote记事本程序提供contentprovider，另一个记事本程序testnotes从该contentprovider获取各种数据。
